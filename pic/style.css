@@ -1,0 +1,27 @@
+body{
+    font-family: 'Barlow', sans-serif;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Gulzar', serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Work Sans', sans-serif; 
+}
+.card{
+    background-color: darkcyan;
+    text-align: center;
+    padding: 20px;
+}
+.hm{
+    color: darkgoldenrod;
+    text-decoration: none;
+    font-family: poppins;
+    font-weight: medium 500 italic;
+}
+.menu-link{
+    color: white;
+    margin-left: 30px;
+    text-decoration: none;
+}
